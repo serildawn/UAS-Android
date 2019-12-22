@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DTS Fit</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="action_calories">Calories</string>
+    <string name="action_save">Save</string>
+    <string name="action_profile">Profile</string>
+</resources>
