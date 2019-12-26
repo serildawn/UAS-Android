@@ -8,6 +8,24 @@
     <string name="slide_1_title">Hello Foodies!</string>
     <string name="slide_1_desc">Good food, Good mood</string>
 
+    <string name="sign_in">Sign In</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="get_started">Get Started</string>
+    <string name="log_in">Log In</string>
+    <string name="reset_code">Reset Code</string>
+    <string name="enter_your_reset_code">Enter Your Reset Code</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="send_request">Send Request</string>
+    <string name="change_password">Change Password</string>
+    <string name="name">Nama</string>
+    <string name="Alamat">Alamat</string>
+    <string name="Email">Email</string>
 
 
     <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
